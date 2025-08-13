@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Dylan Murray - Tech Portfolio</title>
+   <link rel="stylesheet" href="css/style.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+</head>
+<body>
+   <header>
+       <div class="container">
+            <h1>Dylan Murray</h1>
+           <p class="tagline">Tech Enthusiast | Problem Solver | Aspiring [Your Target Role]</p>
+           <nav>
+                <ul>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#projects">Projects</a></li>
+                    <li><a href="#skills">Skills</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+           </nav>
+        </div>
+   </header>
+   <section id="hero">
+       <div class="container">
+
+           <!-- Removed the photo link -->
+            <h2>Automated System Health Checker (Bash Script)</h2>
+           <p>A script that monitors system resources (CPU, memory, disk space) and sends alerts if thresholds are exceeded. Demonstrates Linux
+command-line skills, scripting, and problem-solving.</p>
+           <a href="#" class="button">View Project</a>
+        </div>
+   </section>
+   <section id="about">
+       <div class="container">
+            <h2>About Me</h2>
+           <p>Highly motivated and detail-oriented individual with a passion for technology, specializing in system troubleshooting, hardware repair,
+and Linux system administration. Currently holding CompTIA A+, Network+, and Linux+ certifications to expand expertise in the tech industry. I'm
+passionate about finding solutions to complex problems and enjoy building and troubleshooting systems.</p>
+           <p><strong>Certifications:</strong> CompTIA A+, Network+, Linux+</p>
+        </div>
+   </section>
+   <section id="projects">
+       <div class="container">
+            <h2>Projects</h2>
+           <div class="project-grid">
+               <div class="project">
+                    <h3>Troubleshooting & Configuration</h3>
+                   <p>Automated System Health Checker (Bash Script)</p>
+                   <p>Technologies: Bash, Linux</p>
+                   <a href="#">View Project</a>
+                </div>
+               <!-- Add more projects here -->
+            </div>
+        </div>
+   </section>
+   <section id="skills">
+       <div class="container">
+            <h2>Skills</h2>
+           <div class="skill-grid">
+               <div class="skill">
+                    <h3>Operating Systems</h3>
+                    <ul>
+                        <li>Windows</li>
+                        <li>macOS</li>
+                        <li>Linux (Ubuntu, Fedora)</li>
+                    </ul>
+                </div>
+               <!-- Add more skills here -->
+            </div>
+        </div>
+   </section>
+   <section id="contact">
+       <div class="container">
+            <h2>Contact</h2>
+           <p>Email: dylanmurr777@gmail.com</p>
+           <p>LinkedIn: <a href="#">LinkedIn Profile</a></p>
+           <p>GitHub: <a href="#">GitHub Profile</a></p>
+        </div>
+   </section>
+    <footer>
+       <div class="container">
+           <p>&copy; 2025 Dylan Murray. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
