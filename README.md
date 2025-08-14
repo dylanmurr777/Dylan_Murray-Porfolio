@@ -21,7 +21,7 @@
            <nav>
              
    </p><img width="100" height="100" alt="240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" src="https://github.com/user-attachments/assets/2446a38e-f371-401a-b466-213b40a87371"
-   </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
+   
 
 
  <ul>
@@ -36,9 +36,9 @@
    <section id="hero">
        <div class="container">
 
-            
+   </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"     
 
-   <a href="#" class="button">View Project</a>
+   <a href="https://www.youtube.com/@chocolatethunda6922" class="button">View Project</a>
         </div>
    </section>
    <section id="about">
