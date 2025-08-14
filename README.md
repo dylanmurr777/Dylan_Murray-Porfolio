@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
-</p><img width="1000" height="400" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
+</p><img width="1200" height="250" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
 
    
    
