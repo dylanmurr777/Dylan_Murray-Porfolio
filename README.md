@@ -97,7 +97,7 @@ passionate about finding solutions to complex problems and enjoy building and tr
             <h2>Contact</h2>
            <p>Email: dylanmurr777@gmail.com</p>
            <p>LinkedIn: <a href="https://www.linkedin.com/in/dylan-murray-346a46218/">LinkedIn Profile</a></p>
-           <p>GitHub: <a href="#">GitHub Profile</a></p>
+           <p>GitHub: <a href="https://github.com/dylanmurr777/Dylan_Murray-Porfolio">GitHub Profile</a></p>
         </div>
    </section>
     <footer>
