@@ -4,9 +4,10 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
+</p><img width="1000" height="400" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
 
    
-   Dylan Murray - Tech Portfolio
+   
    <link rel="stylesheet" href="css/style.css">
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -19,8 +20,8 @@
            <p class="tagline">Tech Enthusiast | Trouble Shooter | Coder | Developer</p>
            <nav>
              
-   ![240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459](https://github.com/user-attachments/assets/2446a38e-f371-401a-b466-213b40a87371)
-   ![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d)
+   </p><img width="100" height="100" alt="240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459" src="https://github.com/user-attachments/assets/2446a38e-f371-401a-b466-213b40a87371"
+   </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
 
 
  <ul>
@@ -76,7 +77,11 @@ passionate about finding solutions to complex problems and enjoy building and tr
                -scripting 
                   -problem-solving.</p> 
                   
- ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b) ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de)![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/14826f86-110d-49ea-b20f-5831de34fe4a)![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/3c574f30-8fba-45f1-a182-45d2298d4e50)![212281780-0afd9616-8310-46e9-a898-c4f5269f1387](https://github.com/user-attachments/assets/a0bab174-27ca-4fbf-a990-52313cd30987)
+</p><img width="100" height="100" alt="212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86" src="https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b" 
+</p><img width="100" height="100" alt="212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6" src="https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de"
+</p><img width="100" height="100" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5" src="https://github.com/user-attachments/assets/14826f86-110d-49ea-b20f-5831de34fe4a"
+</p><img width="100" height="100" alt="212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b" src="https://github.com/user-attachments/assets/3c574f30-8fba-45f1-a182-45d2298d4e50"
+</p><img width="100" height="100" alt="212281780-0afd9616-8310-46e9-a898-c4f5269f1387" src="https://github.com/user-attachments/assets/a0bab174-27ca-4fbf-a990-52313cd30987"
 
 
 
