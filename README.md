@@ -3,7 +3,10 @@
 <head>
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Dylan Murray - Tech Portfolio</title>
+  
+
+   
+   Dylan Murray - Tech Portfolio
    <link rel="stylesheet" href="css/style.css">
    <link rel="preconnect" href="https://fonts.googleapis.com">
    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -58,11 +61,20 @@ passionate about finding solutions to complex problems and enjoy building and tr
         </div>
    </section>
    <section id="skills">
-       <div class="container">
+
+              
+   <div class="container">
             <h2>Skills</h2>
            <div class="skill-grid">
                <div class="skill">
-                    <h3>Operating Systems</h3>
+                  
+ ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b) ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de)![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/14826f86-110d-49ea-b20f-5831de34fe4a)![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/3c574f30-8fba-45f1-a182-45d2298d4e50)
+
+
+
+                   
+                    
+<h3>Operating Systems</h3>
                     <ul>
                         <li>Windows</li>
                         <li>macOS</li>
@@ -83,8 +95,9 @@ passionate about finding solutions to complex problems and enjoy building and tr
    </section>
     <footer>
        <div class="container">
-           <p>&copy; 2025 Dylan Murray. All rights reserved.</p>
-        </div>
+           <p>&copy; 2025 Dylan Murray. All rights reserved.</p><img width="200" height="200" alt="octocat-1755196451193" src="https://github.com/user-attachments/assets/943f4c16-ad90-44eb-b1d2-6857fec9883b" />
+
+ </div>
     </footer>
 </body>
 </html>
