@@ -47,7 +47,12 @@
            <p>Highly motivated and detail-oriented individual with a passion for technology, specializing in system troubleshooting, hardware repair,
 and Linux system administration. Currently holding CompTIA A+, Network+, and Linux+ certifications to expand expertise in the tech industry. I'm
 passionate about finding solutions to complex problems and enjoy building and troubleshooting systems.</p>
-           <p><strong>Certifications:</strong> CompTIA A+, Network+, Linux+</p>
+
+  </p><img width="10000" height="200" alt="giphy" src="https://github.com/user-attachments/assets/0b1a89c5-da57-4b87-99a4-481bc543ffb1"
+  
+   </div>   
+
+ <p><strong>Certifications:</strong> <li>CompTIA A+</li> <li>Network+</li> <li>Linux+</li></p>
         </div>
    </section>
    <section id="projects">
