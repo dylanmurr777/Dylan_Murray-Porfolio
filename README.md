@@ -58,7 +58,7 @@ passionate about finding solutions to complex problems and enjoy building and tr
                     <h3>Troubleshooting & Configuration</h3>
                    <p>Automated System Health Checker (Bash Script)</p>
                    <p>Technologies: Bash, Linux</p>
-                   <a href="#">View Project</a>
+                   <a href="https://www.youtube.com/@chocolatethunda6922">View Project</a>
                 </div>
                
 
