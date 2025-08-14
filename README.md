@@ -18,7 +18,10 @@
             <h1>Dylan Murray</h1>
            <p class="tagline">Tech Enthusiast | Problem Solver | Aspiring [Your Target Role]</p>
            <nav>
-                <ul>
+             
+   ![240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459](https://github.com/user-attachments/assets/2446a38e-f371-401a-b466-213b40a87371)
+
+ <ul>
                     <li><a href="#about">About</a></li>
                     <li><a href="#projects">Projects</a></li>
                     <li><a href="#skills">Skills</a></li>
@@ -68,7 +71,8 @@ passionate about finding solutions to complex problems and enjoy building and tr
            <div class="skill-grid">
                <div class="skill">
                   
- ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b) ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de)![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/14826f86-110d-49ea-b20f-5831de34fe4a)![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/3c574f30-8fba-45f1-a182-45d2298d4e50)
+ ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b) ![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6](https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de)![212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5](https://github.com/user-attachments/assets/14826f86-110d-49ea-b20f-5831de34fe4a)![212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b](https://github.com/user-attachments/assets/3c574f30-8fba-45f1-a182-45d2298d4e50)![212281780-0afd9616-8310-46e9-a898-c4f5269f1387](https://github.com/user-attachments/assets/a0bab174-27ca-4fbf-a990-52313cd30987)
+
 
 
 
