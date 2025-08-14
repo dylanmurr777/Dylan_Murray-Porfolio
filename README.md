@@ -60,7 +60,7 @@ passionate about finding solutions to complex problems and enjoy building and tr
                    <p>Technologies: Bash, Linux</p>
                    <a href="#">View Project</a>
                 </div>
-               <!-- Add more projects here -->
+               
 
               
    </div>
@@ -73,9 +73,14 @@ passionate about finding solutions to complex problems and enjoy building and tr
             <h2>Skills</h2>
            <div class="skill-grid">
                <div class="skill">
-                -command-line skills 
-               -scripting 
-                  -problem-solving.</p> 
+                      <li>Linux Command Line</li> 
+                      <li>Windows Configuration & Troubleshooting </li>
+                      <li>Coding</li> </p> 
+                  <h3>Operating Systems</h3>
+                    <ul>
+                      <li>Linux (Ubuntu, Fedora)</li>
+                      <li>macOS</li>
+                      
                   
 </p><img width="100" height="100" alt="212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86" src="https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b" 
 </p><img width="100" height="100" alt="212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6" src="https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de"
@@ -88,16 +93,11 @@ passionate about finding solutions to complex problems and enjoy building and tr
 
                    
                     
-<h3>Operating Systems</h3>
-                    <ul>
-                        <li>Windows</li>
-                        <li>macOS</li>
-                        <li>Linux (Ubuntu, Fedora)</li>
-                    </ul>
-                </div>
-               <!-- Add more skills here -->
-            </div>
-        </div>
+
+                        
+                        
+                        
+               
    </section>
    <section id="contact">
        <div class="container">
