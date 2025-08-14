@@ -16,10 +16,12 @@
    <header>
        <div class="container">
             <h1>Dylan Murray</h1>
-           <p class="tagline">Tech Enthusiast | Problem Solver | Aspiring [Your Target Role]</p>
+           <p class="tagline">Tech Enthusiast | Trouble Shooter | Coder | Developer</p>
            <nav>
              
    ![240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459](https://github.com/user-attachments/assets/2446a38e-f371-401a-b466-213b40a87371)
+   ![219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8](https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d)
+
 
  <ul>
                     <li><a href="#about">About</a></li>
