@@ -35,17 +35,21 @@
        <div class="container">
 
         
-<a href="https://www.youtube.com/@chocolatethunda6922" class="button">View Project</a>
-        </div>
+
+   </div>
    </section>
    <section id="about">
        <div class="container">
             <h2>About Me</h2>
-           <p>Highly motivated and detail-oriented individual with a passion for technology, specializing in system troubleshooting, hardware repair,
-and Linux system administration. Currently holding CompTIA A+, Network+, and Linux+ certifications to expand expertise in the tech industry. I'm
-passionate about finding solutions to complex problems and enjoy building and troubleshooting systems.</p>
+</p><img width="10000" height="150" alt="giphy" src="https://github.com/user-attachments/assets/0b1a89c5-da57-4b87-99a4-481bc543ffb1" 
+          
+ </div>Highly motivated and detail-oriented individual with a passion for technology, specializing in system troubleshooting, hardware repair, and Linux
+system administration. Currently pursuing CompTIA A+, Network+, and Linux+ certifications to expand expertise in the tech industry. I'm passionate
+about finding solutions to complex problems and enjoy building and troubleshooting systems. Beyond my professional skills, I have a deep-seated
+hobby of fixing broken hardware – including phones, laptops, tablets, and PCs. I also love working on tech projects, building machines, and exploring
+device hacking, particularly when tackling challenging issues like "bricked" technology and code manipulation. I look forward to working with an advancded team within an established and professional tech company.</p>
 
-  </p><img width="10000" height="150" alt="giphy" src="https://github.com/user-attachments/assets/0b1a89c5-da57-4b87-99a4-481bc543ffb1" </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
+  </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
   
    </div>   
 
@@ -60,7 +64,7 @@ passionate about finding solutions to complex problems and enjoy building and tr
                     <h3>Troubleshooting & Configuration</h3>
                    <p>Automated System Health Checker (Bash Script)</p>
                    <p>Technologies: Bash, Linux</p>
-                   <a href="https://www.youtube.com/@chocolatethunda6922">View Project</a>
+                   <a href="https://www.youtube.com/@chocolatethunda6922">View Project on Youtube</a>
                 </div>
                
 
@@ -77,11 +81,14 @@ passionate about finding solutions to complex problems and enjoy building and tr
                <div class="skill">
                       <li>Linux Command Line</li> 
                       <li>Windows Configuration & Troubleshooting </li>
-                      <li>Coding</li> </p> 
+                      <li>Coding</li> 
+               <li>Hardware repair and Manipulation</li></p> 
                   <h3>Operating Systems</h3>
                     <ul>
-                      <li>Linux (Ubuntu, Fedora)</li>
+                      <li>Linux (Parrot OS, Kali Linux)</li>
                       <li>macOS</li>
+                      <li>Windows</li>
+                      <li>Android</li>
                       
 
 </p><img width="100" height="100" alt="212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86" src="https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b" 
@@ -104,7 +111,7 @@ passionate about finding solutions to complex problems and enjoy building and tr
    <section id="contact">
        <div class="container">
             <h2>Contact</h2>
-           <p>Email: dylanmurr777@gmail.com</p>
+           <p>Email: mrmurr1101@gmail.com</p>
            <p>LinkedIn: <a href="https://www.linkedin.com/in/dylan-murray-346a46218/">LinkedIn Profile</a></p>
            <p>GitHub: <a href="https://github.com/dylanmurr777/Dylan_Murray-Porfolio">GitHub Profile</a></p>
         </div>
