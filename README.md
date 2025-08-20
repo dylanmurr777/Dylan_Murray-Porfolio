@@ -4,7 +4,7 @@
    <meta charset="UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-</p><img width="1200" height="150" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
+
   
 <link rel="stylesheet" href="css/style.css">
    <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -14,7 +14,7 @@
 <body>
    <header>
        <div class="container">
-            <h1>Dylan Murray</h1>
+            <h1>Dylan B Murray</h1>
            <p class="tagline">Tech Enthusiast | Trouble Shooter | Coder | Developer</p>
            <nav>
              
@@ -47,7 +47,7 @@
 system administration. Currently pursuing CompTIA A+, Network+, and Linux+ certifications to expand expertise in the tech industry. I'm passionate
 about finding solutions to complex problems and enjoy building and troubleshooting systems. Beyond my professional skills, I have a deep-seated
 hobby of fixing broken hardware – including phones, laptops, tablets, and PCs. I also love working on tech projects, building machines, and exploring
-device hacking, particularly when tackling challenging issues like "bricked" technology and code manipulation. I look forward to working with an advancded team within an established and professional tech company.</p>
+device hacking, particularly when tackling challenging issues like "bricked" technology and code manipulation. I look forward to working with an advanced team within an established and professional tech company.</p>
 
   </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
   
@@ -61,10 +61,15 @@ device hacking, particularly when tackling challenging issues like "bricked" tec
             <h2>Projects</h2>
            <div class="project-grid">
                <div class="project">
-                    <h3>Troubleshooting & Configuration</h3>
-                   <p>Automated System Health Checker (Bash Script)</p>
-                   <p>Technologies: Bash, Linux</p>
-                   <a href="https://www.youtube.com/@chocolatethunda6922">View Project on Youtube</a>
+
+                  
+   </p><img width="600" height="225" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
+                   
+                         
+   <h3><li>Troubleshooting and Configuration</li></h3>
+                   <p><li>Automated System Health Checker</li> (Bash Script)</p>
+                   <p><li>Technologies: Bash, Linux</li></p>
+                   <a href="https://www.youtube.com/@chocolatethunda6922"><li>View Project on Youtube</li></a>
                 </div>
                
 
