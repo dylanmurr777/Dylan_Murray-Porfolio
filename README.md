@@ -13,8 +13,12 @@
 </head>
 <body>
    <header>
-       <div class="container">
-            <h1>Dylan B Murray</h1>
+
+</p><img width="200" height="250" alt="518250102_10234136966263073_5133173202940417589_n" src="https://github.com/user-attachments/assets/f9863257-abff-4b97-86f9-95f8cee00d58"
+      
+   <div class="container">
+
+<h1>Dylan B Murray</h1>
            <p class="tagline">Tech Enthusiast | Trouble Shooter | Coder | Developer</p>
            <nav>
              
