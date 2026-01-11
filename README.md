@@ -14,7 +14,8 @@
 <body>
    <header>
 
-</p><img width="150" height="350" alt="479521180_10232101290932462_5276660122717706846_n" src="https://github.com/user-attachments/assets/20f1c53a-e351-4ea1-90e8-5383856bcbc6"
+
+   </p><img width="224" height="436" alt="ChatGPT Image Jan 10, 2026, 05_04_55 PM" src="https://github.com/user-attachments/assets/7575963c-388d-43c6-b2fe-071f37143475" />
 
       
    <div class="container">
