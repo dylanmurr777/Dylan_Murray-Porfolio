@@ -25,28 +25,20 @@
            <nav>
              
    
-   
-
-
-
-
-        
-
    </div>
    </section>
    <section id="about">
        <div class="container">
             <h2>About Me</h2>
-</p><img width="10000" height="150" alt="giphy" src="https://github.com/user-attachments/assets/0b1a89c5-da57-4b87-99a4-481bc543ffb1" 
+
           
  </div>
-
-## Overview
 
 Highly motivated and detail-oriented IT professional with hands-on experience in Linux system administration, hardware repair, networking, virtualization, and cybersecurity fundamentals. Actively pursuing **CompTIA A+**, **Network+**, **Security+**, and **Linux+** certifications in order to fine tune my knowledge as an IT professional.
 
 Strong background in troubleshooting, system recovery, and infrastructure design across Linux and Windows environments. Passionate about building, repairing, securing, and monitoring systems, with a particular interest in restoring misconfigured or “bricked” hardware and exploring controlled security testing in authorized lab environments.
-
+ </p><img width="600" height="225" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
+        
 ---
 
 ## Core Skills
@@ -178,15 +170,11 @@ Strong background in troubleshooting, system recovery, and infrastructure design
 ##
 </p>
 
-  </p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
+ 
   
    </div>   
 
-
-        
-   
-           
-</p><img width="600" height="225" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
+</p><img width="100" height="100" alt="219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8" src="https://github.com/user-attachments/assets/f322cd8f-1d9e-43df-ba92-c9b2577ecb2d"
 </p><img width="100" height="100" alt="212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86" src="https://github.com/user-attachments/assets/d1780b6c-2c92-4aad-ab4c-b22a52e3bd4b" 
 </p><img width="100" height="100" alt="212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6" src="https://github.com/user-attachments/assets/911cc9e3-6237-46b1-8094-3e27af6b80de"
 </p><img width="100" height="100" alt="212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5" src="https://github.com/user-attachments/assets/14826f86-110d-49ea-b20f-5831de34fe4a"
