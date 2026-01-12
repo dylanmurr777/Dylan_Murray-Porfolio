@@ -203,13 +203,9 @@ Strong background in troubleshooting, system recovery, and infrastructure design
    <section id="contact">
        <div class="container">
             <h2>Contact</h2>
-           <p>Email: mrmurr1101@gmail.com</p>
-         [LinkedIn](https://www.linkedin.com/in/dylan-murray-640b47371/)
-
-
-
-         
-   </div>
+            <p>Email: mrmurr1101@gmail.com</p>
+            <a href="https://www.linkedin.com/in/dylan-murray-640b47371/">LinkedIn</a>
+ </div>
    </section>
     <footer>
        <div class="container">
