@@ -36,7 +36,7 @@
 
 Highly motivated and detail-oriented IT professional with hands-on experience in Linux system administration, hardware repair, networking, virtualization, and cybersecurity fundamentals. Actively pursuing **CompTIA A+**, **Network+**, **Security+**, and **Linux+** certifications in order to fine tune my knowledge as an IT professional.
 
-Strong background in troubleshooting, system recovery, and infrastructure design across Linux and Windows environments. Passionate about building, repairing, securing, and monitoring systems, with a particular interest in restoring misconfigured or “bricked” hardware and exploring controlled security testing in authorized lab environments.
+Strong background in troubleshooting, system recovery, and infrastructure design across Linux and Windows environments. Passionate about building, repairing, securing, and monitoring systems, With a particular interest in diagnosing, recovering, and restoring improperly configured or non-functional hardware, as well as designing and executing controlled cybersecurity simulations that emulate both red-team attack methodologies and blue-team defensive operations within authorized, virtualized lab environments. 
  </p><img width="600" height="225" alt="213910845-af37a709-8995-40d6-be59-724526e3c3d7" src="https://github.com/user-attachments/assets/3e7e9346-5cf1-4176-a974-6cc015efe5e4"
         
 ---
