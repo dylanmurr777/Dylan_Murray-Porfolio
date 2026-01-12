@@ -205,8 +205,8 @@ Strong background in troubleshooting, system recovery, and infrastructure design
             <h2>Contact</h2>
            <p>Email: mrmurr1101@gmail.com</p>
            <p>LinkedIn: <a href="https://www.linkedin.com/in/dylan-murray-346a46218/">LinkedIn Profile</a></p>
-           <p>GitHub: <a href="https://github.com/dylanmurr777/Dylan_Murray-Porfolio">GitHub Profile</a></p>
-        </div>
+         
+   </div>
    </section>
     <footer>
        <div class="container">
