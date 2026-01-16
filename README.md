@@ -205,6 +205,91 @@ Strong background in troubleshooting, system recovery, and infrastructure design
             <h2>Contact</h2>
             <p>Email: mrmurr1101@gmail.com</p>
             <a href="https://www.linkedin.com/in/dylan-murray-640b47371/">LinkedIn</a>
+
+  <details>
+  <summary><strong>Letter of Recommendation – Systems Administrator</strong> (Click to expand)</summary>
+
+<br>
+
+<strong>Letter of Recommendation</strong>
+
+<p>To Whom It May Concern,</p>
+
+<p>
+I am writing to formally recommend <strong>Dylan Murray</strong> for employment in a
+<strong>Systems Administrator or IT Infrastructure</strong> role.
+</p>
+
+<p>
+Dylan currently serves in a <strong>remote Systems Administrator (SysAdmin)</strong> position under my supervision,
+where he is directly involved in the setup, configuration, administration, and ongoing management of a
+<strong>production server environment</strong>. His work is hands-on and operational in nature, supporting live services
+with real considerations for uptime, performance, stability, and security.
+</p>
+
+<p>
+In this role, Dylan has demonstrated working knowledge and practical experience in the following areas:
+</p>
+
+<ul>
+  <li>Linux server administration, including service management, permissions, log analysis, and troubleshooting</li>
+  <li>Virtualization platforms, including virtual machine management, resource allocation, and stability monitoring</li>
+  <li>Containerized services, including Docker-based deployments</li>
+  <li>Networking fundamentals, including IP addressing, port management, firewall rules, and connectivity troubleshooting</li>
+  <li>Service availability and uptime monitoring</li>
+  <li>System troubleshooting and root-cause analysis</li>
+  <li>Remote systems administration best practices</li>
+  <li>Change management and configuration updates performed without disrupting production services</li>
+</ul>
+
+<p>
+Dylan consistently demonstrates a strong problem-solving mindset. When issues arise, he approaches them
+methodically, researches solutions independently, tests changes responsibly, and follows problems through
+to resolution. He works effectively in a remote environment, communicates clearly, and can be trusted to
+manage systems with minimal oversight.
+</p>
+
+<p>
+Although Dylan does not currently hold formal IT certifications, his real-world experience, reliability,
+and technical aptitude more than compensate. He has proven to be resourceful, persistent, and capable of
+learning new systems quickly—qualities that are essential for any successful Systems Administrator.
+</p>
+
+<p>
+One of Dylan’s greatest strengths is his sense of accountability and ownership. He treats systems as
+production assets rather than experiments and understands the importance of stability, documentation,
+and operational discipline.
+</p>
+
+<p>
+For professional context, I have over <strong>seventeen years of experience</strong> in enterprise and military IT
+operations and currently hold the <strong>CompTIA Advanced Security Practitioner (CASP+ / Security-X)</strong>
+certification. Based on my experience, I am confident that Dylan possesses the foundational skills,
+judgment, and work ethic required to succeed in a professional SysAdmin environment.
+</p>
+
+<p>
+I strongly recommend Dylan Murray for <strong>entry-level to mid-level Systems Administrator,
+Infrastructure Support, or Technical Operations</strong> roles. With continued experience, I am confident
+he will continue to grow into a highly capable and dependable IT professional.
+</p>
+
+<p>
+Please feel free to contact me if additional information is required.
+</p>
+
+<p>
+<strong>Respectfully,</strong><br>
+<strong>Cameron R. Bornowski</strong><br>
+Senior IT &amp; Security Professional<br>
+CompTIA Advanced Security Practitioner (CASP+ / Security-X)<br>
+Email: cameronbornowski@gmail.com<br>
+Phone: (254) 317-3239
+</p>
+
+</details>
+
+
  </div>
    </section>
     <footer>
