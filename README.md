@@ -23,7 +23,8 @@
 <h1>Dylan B Murray</h1>
            <p class="tagline">Tech Enthusiast | Trouble Shooter | Coder | Developer | System Administrator</p>
            <nav>
-             
+
+<a href="#contact" class="contact-button">Contact</a>
    
    </div>
    </section>
@@ -196,20 +197,22 @@ Strong background in troubleshooting, system recovery, and infrastructure design
                   
    - [View Project on YouTube](https://www.youtube.com/@chocolatethunda6922)
                         
-   <section id="contact">
-  <div class="container">
+<section id="contact">
+  <h2>Contact</h2>
 
- <h2>Contact</h2>
-    <p>
-      <strong>Email:</strong>
-      <a href="mailto:mrmurr1101@gmail.com">mrmurr1101@gmail.com</a>
-    </p>
+  <p>
+    <strong>Email:</strong>
+    <a href="mailto:mrmurr1101@gmail.com">mrmurr1101@gmail.com</a>
+  </p>
 
-   <p style="margin-bottom: 1.5rem;">
-      <a href="https://www.linkedin.com/in/dylan-murray-640b47371/" target="_blank">
-        LinkedIn
-      </a>
-    </p>
+  <p>
+    <a href="https://www.linkedin.com/in/dylan-murray-640b47371/" target="_blank">
+      LinkedIn
+    </a>
+  </p>
+</section>
+
+
 
  <details style="margin-bottom: 2rem;">
       <summary>
