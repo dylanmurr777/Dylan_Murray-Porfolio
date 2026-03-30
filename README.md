@@ -22,7 +22,7 @@
 
 <h1>Dylan B Murray</h1>
 
- <p class="tagline"> Tech Enthusiast | Trouble Shooter | Coder | Developer | System Administrator</p>
+ <p class="tagline"> System Secuirty Specilist | System Administrator</p>
            <nav>
  <a href="#contact" class="contact-button">Contact</a>
    </div>
