@@ -44,7 +44,7 @@ Strong background in troubleshooting, system recovery, and infrastructure design
 ## Core Skills
 
 ### Operating Systems
-- Linux (Debian, Ubuntu, Parrot OS)
+- Linux (Zorin OS, Ubuntu, Ubuntu Server LTS, Kali Linux, Parrot OS)
 - Windows 7 / 8 / 10 / 11
 - Proxmox
 
@@ -76,6 +76,7 @@ Strong background in troubleshooting, system recovery, and infrastructure design
 - Log correlation and analysis
 - Vulnerability detection
 - Certificate generation and management
+- Shinobi
 
 ### Remote Access & Connectivity
 - Tailscale VPN
