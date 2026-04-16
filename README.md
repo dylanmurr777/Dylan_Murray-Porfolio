@@ -114,7 +114,7 @@ Strong background in troubleshooting, system recovery, and infrastructure design
 - Performed clean rebuilds and system recovery when required
 
 ### Network Architecture & VLAN Segmentation
-- Built a multi-VLAN network using managed switches
+- Built a multi-VLAN network using managed L3 switches
 - Segmented management, server, lab, and client traffic
 - Configured routing, gateways, and DHCP boundaries
 - Maintained network stability during ISP transitions
