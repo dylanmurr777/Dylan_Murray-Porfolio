@@ -45,7 +45,7 @@ Strong background in troubleshooting, system recovery, and infrastructure design
 
 ### Operating Systems
 - Linux (Debian, Ubuntu, Parrot OS)
-- Windows 10 / 11
+- Windows 7 / 8 / 10 / 11
 - Proxmox
 
 ### System Administration
